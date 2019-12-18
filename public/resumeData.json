@@ -5,7 +5,7 @@
     "description": "Hello !",
     "image": "profilepic.jpg",
     "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage": "Empregos, estágios, perguntas, orçamentos e convites aqui:",
+    "contactmessage": "Work offers, internships, questions, budget and invitations here:",
     "email": "rlpelizzon@gmail.com",
     "phone": "(43) 99970-7381",
     "address": {
@@ -15,7 +15,7 @@
       "zip": "86300-000"
     },
     "website": "http://www.burca.dev",
-    "resumedownload": "http://www.burca.dev/curriculo",
+    "resumedownload": "https://drive.google.com/file/d/187rgrpunOPooU6Gs8NoOLbIokC_qfq1z/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -50,13 +50,13 @@
     ]
   },
   "resume": {
-    "skillmessage": "Algumas tecnologias que ja usei:",
+    "skillmessage": "Some technologies that I've used:",
     "education": [
       {
         "school": "Universidade Tecnológica Federal do Paraná",
         "degree": "Software Engineering",
         "graduated": "December 2020",
-        "description": "Participei do UTFGames"
+        "description": "Enrolled on UTFGames, the digital games lab of the university"
       }
     ],
     "work": [
@@ -70,7 +70,7 @@
         "company": "UTFGames",
         "title": "Game Developer & Programmer",
         "years": "March 2013 - February 2015",
-        "description": "Desenvolvido o jogo The Cleaners. Primeiro lugar UTFGame Jam 2015"
+        "description": "Developed the game The Cleaners. First place in UTFGame Jam 2015"
       }
     ],
     "skills": [
